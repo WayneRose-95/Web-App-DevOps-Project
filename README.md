@@ -87,6 +87,10 @@ To run the application, you simply need to run the `app.py` script in this repos
 - [Maya Iuga](https://github.com/maya-a-iuga)
 - [Wayne Rose](https://github.com/WayneRose-95)
 
+## Future Improvements 
+
+- Completion of Wiki Page to house detailed docuementation of the project.
+- Extension of Terraform to provision an Azure Key Vault and Azure DevOps workspaces
 
 ## License
 
